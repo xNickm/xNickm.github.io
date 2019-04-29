@@ -111,7 +111,7 @@ opacity: 0.85;
 
 
 
-@media only screen and (max-device-width: 1024px) {
+@media only screen and (max-device-width: 1366px) {
   .bgimg1, .bgimg2, .bgimg3 {
     background-attachment: scroll;
   }
