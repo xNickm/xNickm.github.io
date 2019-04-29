@@ -1,0 +1,131 @@
+body, html {
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    margin: 0;
+    
+}
+
+
+
+
+
+
+
+
+h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    text-align: justify;
+
+}
+
+
+
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+.bgimg1,
+.bgimg2,
+.bgimg3 {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.85;
+    
+}
+
+.bgimg1 {
+    background-image: url("lion1.jpg");
+    height: 1200px;
+}
+
+
+.bgimg2 {
+    background-image: url("lion4.jpg");
+    min-height: 900px;
+}
+
+
+.bgimg3 {
+    background-image: url("lion6.jpg");
+    min-height: 1000px;
+}
+
+
+.borderblock {
+    position: absolute;
+    left: 0;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+
+.borderblock1 {
+background-color: rgb(7, 39, 0);
+text-align: center;
+padding: 50px 80px;
+opacity: 0.85;
+
+}
+
+
+
+
+
+.block {
+    background-color: rgb(7, 39, 0);
+    color: #fff;
+    padding: 50px 160px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    opacity: 0.85;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
