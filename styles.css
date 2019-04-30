@@ -74,10 +74,10 @@ p {
 
 
 .borderblock {
-    width: 100%;
+    width: 50%;
     text-align: center;
-    padding-top: 5%;
-
+    padding-top: 15%;
+    margin-left: 25%;
 
 }
 
@@ -100,9 +100,7 @@ p {
     font-size: 25px;
     letter-spacing: 10px;
     opacity: 0.85;
-    top: 40%;
-    
-
+    padding: 20px 20px;
 }
 
 
